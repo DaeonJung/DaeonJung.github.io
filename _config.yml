@@ -6,44 +6,56 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: ko
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title:  Daeon's CS Diary # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Diary for seeking improvement in CS # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  I will be writing this blog in both English and Korean
+  I'm looking foward to post about what I've learned in Computer Science 
+  I'll also going to share my thoughts as I was solving coding challenges or learning algorithms, data structures, programming new languages and math (Discrete Mathematics)
+  Since I'm currently a freshman in college (Class of 2025) in South Korea, my code or English could be seen messy to specialists or native speekers. I'll keep working on those
+
+  블로그 글은 영어와 한국어 둘 다 작성합니다
+  컴퓨터공학 전공을 하며 배운 점에 대한 글을 올릴 생각입니다
+  코딩 테스트 예제를 풀며 느꼈던 점들이나, 알고리즘, 자료구조, 새 언어, 수학 (이산수학) 등을 배우며 느낀 점을 공유하려고 합니다
+  현재 한국에서 대학교 1학년생(2025)이기 때문에, 제 코드나 영어는 전문가나 현지인에게는 지저분해 보일 수 있습니다. 그 부분은 계속해서 노력하겠습니다
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://daeonjung.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username:  DaeonJung # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username:  # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Daeon Jung
+  email: socialdaeon@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    # change to your Twitter homepage
+    - https://github.com/DaeonJung # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
+author:
+  name: Daeon Jung
+  email: socialdaeon@gmail.com
 
+avatar: /assets/img/favicons/avatar.png
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
