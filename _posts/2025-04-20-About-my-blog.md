@@ -4,7 +4,7 @@ date: 2025-04-20
 categories: [Daily Life]
 tags: []
 ---
-# English
+> # English
 ---
 
 # 👋 About Me
@@ -24,8 +24,12 @@ Since I'm currently a freshman in college (Class of 2025) in South Korea, my cod
 - Practice writing clean, maintainable code  
 - Also practicing the best programing language in the world : English  
 
----
-# 한국어 
+<br>
+<br>
+<br>
+<br>
+
+> # 한국어 
 ---
 
 # 👋 나에 대해서
