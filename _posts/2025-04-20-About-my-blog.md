@@ -1,7 +1,7 @@
 ---
 title: "About my blog"
 date: 2025-04-20
-categories: [daily life]
+categories: [Daily Life]
 tags: []
 ---
 
