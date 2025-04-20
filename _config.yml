@@ -47,7 +47,7 @@ author:
   name: Daeon Jung
   email: socialdaeon@gmail.com
 
-avatar: /assets/img/favicons/avatar.png # 강제 리빌드를 유도하는 의미 없는 주석
+avatar: /assets/img/avatar.png # 강제 리빌드를 유도하는 의미 없는 주석
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
