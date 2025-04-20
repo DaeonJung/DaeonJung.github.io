@@ -47,7 +47,7 @@ author:
   name: Daeon Jung
   email: socialdaeon@gmail.com
 
-avatar: /assets/img/avatar.png # 강제 리빌드를 유도하는 의미 없는 주석
+
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
@@ -102,7 +102,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/img/avatar.png # 강제 리빌드를 유도하는 의미 없는 주석
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
